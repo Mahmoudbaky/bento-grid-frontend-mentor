@@ -588,6 +588,26 @@ video {
   }
 }
 
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.left-5 {
+  left: 1.25rem;
+}
+
+.left-6 {
+  left: 1.5rem;
+}
+
+.left-\[50px\] {
+  left: 50px;
+}
+
 .col-span-2 {
   grid-column: span 2 / span 2;
 }
