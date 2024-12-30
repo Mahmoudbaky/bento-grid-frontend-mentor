@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "CustomFont";
+  src: url("assets/fonts/static/DMSans-Regular.ttf") format("ttf");
+
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CustomFont";
+  src: url("assets/fonts/static/DMSans-Medium.ttf") format("ttf");
+
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CustomFont";
+  src: url("assets/fonts/static/DMSans-MediumItalic.ttf") format("ttf");
+  font-weight: 800;
+  font-style: normal;
+}
